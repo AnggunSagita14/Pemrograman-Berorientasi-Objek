@@ -1,5 +1,7 @@
-public class KodePertama_Latihan1{
-    public static void main(String[] args) {
+package Pertemuan1;
+
+public class KodePertama_Latihan1 {
+public static void main(String[] args) {
         System.out.println("Nama        : Anggun Sagita");
         System.out.println("NIM         : D1041241085");
         System.out.println("Semester    : 4");
