@@ -1,6 +1,6 @@
 package Pertemuan3;
 
-public class p002WorkingVariable {
+public class p022WorkingVariable {
     public static void main(String[] args) {
         //Deklarasi dan inisialisasi variabel
         int angka = 10;
