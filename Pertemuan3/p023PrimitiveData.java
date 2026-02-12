@@ -26,3 +26,9 @@ public class p023PrimitiveData {
 
     }
 }
+
+/*
+ NAMA    : ANGGUN SAGITA
+ NIM     : D1041241085
+ TANGGAL :  12/02/2026
+ */
