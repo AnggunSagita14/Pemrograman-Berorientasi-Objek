@@ -19,3 +19,9 @@ public class LatihPerhitungan {
 
     }
 }
+
+/*
+ NAMA    : ANGGUN SAGITA
+ NIM     : D1041241085
+ TANGGAL :  13/02/2026
+ */
