@@ -18,3 +18,9 @@ public class LatihDataMahasiswa {
         System.out.println("Total SKS      : " + totalSks);
     }
 }
+
+/*
+ NAMA    : ANGGUN SAGITA
+ NIM     : D1041241085
+ TANGGAL :  13/02/2026
+ */
