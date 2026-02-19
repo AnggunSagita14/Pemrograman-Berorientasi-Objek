@@ -1,0 +1,17 @@
+NARASI / REFLEKSI PERTEMUAN 4
+Nama: Anggun Sagita
+NIM: D1041241085
+
+Pada Pertemuan 4, saya mempelajari tentang naming convention (aturan penamaan), penggunaan variabel dan class yang baik, serta cara kerja operator aritmatika dalam Java. Dari latihan yang saya kerjakan, saya semakin memahami bahwa menulis kode bukan hanya tentang membuat program berjalan, tetapi juga tentang bagaimana membuat kode tersebut mudah dibaca dan dipahami.
+
+Pertama, mengenai naming convention, saya memahami bahwa penamaan dalam Java memiliki aturan dan kebiasaan tertentu. Nama class diawali huruf kapital seperti LatihanProduk, LatihanKalkulator, dan LatihanCounter. Sedangkan variabel menggunakan huruf kecil di awal dan metode camelCase seperti namaProduk, hargaSatuan, jumlahStok, dan nilaiAwal. Dengan mengikuti standar ini, kode menjadi lebih rapi dan konsisten. Jika suatu saat program dikembangkan lebih besar atau dibaca oleh orang lain, struktur penamaannya sudah jelas dan tidak membingungkan.
+
+Penamaan variabel dan class sangat penting dalam pemrograman karena nama adalah representasi dari isi atau fungsi data tersebut. Jika saya menulis variabel dengan nama yang tidak jelas seperti a, b, atau x1, maka orang lain (atau bahkan saya sendiri di kemudian hari) akan kesulitan memahami maksud program. Misalnya, penggunaan nama totalNilai dan nominalPajak langsung menunjukkan bahwa variabel tersebut berkaitan dengan perhitungan total dan pajak. Artinya, nama yang baik membantu meningkatkan keterbacaan (readability) dan kualitas kode (clean code).
+
+Selanjutnya, saya memahami bagaimana operator aritmatika bekerja dalam Java melalui Latihan 2 dan 3. Operator seperti +, -, *, /, dan % digunakan untuk melakukan operasi matematika dasar. Pada latihan kalkulator, saya melihat bahwa pembagian antara dua tipe data int menghasilkan nilai bulat, sehingga 25 / 4 menghasilkan 6 (bukan 6.25). Hal ini membuat saya memahami bahwa tipe data memengaruhi hasil operasi. Selain itu, pada latihan counter saya belajar tentang operator increment (++), decrement (--), dan operator penugasan seperti +=, -=, dan *=. Operator tersebut mempermudah penulisan kode karena lebih ringkas dibandingkan menuliskan operasi lengkap berulang kali.
+
+Contoh penerapan yang saya pahami dari latihan adalah pada program LatihanProduk, di mana saya menghitung total nilai stok dengan mengalikan harga satuan dan jumlah stok, lalu menghitung pajak 11% dari total tersebut. Di sini saya melihat bagaimana variabel, tipe data, dan operator aritmatika bekerja bersama untuk menyelesaikan suatu perhitungan sederhana yang menyerupai kasus nyata dalam dunia bisnis.
+
+Kesulitan yang saya alami adalah memahami perbedaan tipe data int dan double, terutama ketika menghitung pajak dan melakukan pembagian. Awalnya saya belum menyadari bahwa pembagian bilangan bulat tidak menghasilkan angka desimal. Namun setelah mencoba dan melihat hasilnya, saya mulai memahami pentingnya memilih tipe data yang sesuai dengan kebutuhan perhitungan.
+
+Secara keseluruhan, dari Pertemuan 4 saya belajar bahwa dasar-dasar seperti penamaan yang benar dan penggunaan operator aritmatika yang tepat sangat penting dalam membangun logika pemrograman yang sistematis. Materi ini membantu saya berpikir lebih terstruktur dan memahami bahwa kualitas kode sangat dipengaruhi oleh cara kita menulisnya sejak awal.
