@@ -1,6 +1,6 @@
 package Pertemuan10;
 
-public class LatihanMobilConstructo {
+public class LatihanMobilConstructor {
     static class Mobil {
         String merk;
         String warna;
